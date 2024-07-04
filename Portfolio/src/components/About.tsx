@@ -1,12 +1,12 @@
 import "./About.css";
-import AboutImg from "../assets/about.jpeg";
+import CerImg from "../assets/cer.png";
 
 const About = () => {
   return (
     <div className="container-about" id="about">
       <div className="about-con">
         <div className="img-con">
-          <img src={AboutImg} alt="about image" />
+          <img src={CerImg} alt="about image" />
         </div>
         <div className="detail">
           <p className="title">About</p>
