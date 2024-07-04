@@ -1,0 +1,25 @@
+
+.contact-con {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding:  3rem 0;
+  text-align: center;
+}
+.contact-con > p {
+  color: #ffb800;
+  font-family: Permanent Marker;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.contact-con ul li{
+    list-style: none;
+    margin-top: 10px;
+    color: #FFF;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
